@@ -1,0 +1,78 @@
+h4 {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: azure;
+    margin: 40px 10px;
+}
+
+body{
+    background-color: azure;
+}
+
+span {
+    color: #CE3847;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 100;
+
+}
+
+p.fasilitas {
+    font-weight: 1000;
+    background-color: azure;
+    margin: 40px 10px;
+}
+
+p.fitur {
+    font-weight: 500;
+    background-color: azure;
+    margin: 20px;
+}
+
+img.gambar1 {
+    width: 500px;
+    margin: 0 auto;
+}
+
+img {
+    width: 400px;
+    height: 300px;
+    margin: 0 auto;
+    display: block;
+    top: 50%;
+    left: 50%;
+    
+}
+
+p.FB {
+    text-align: center;
+}
+
+video {
+    width: 300px;
+    height: 200px;
+    padding: 0%;
+}
+
+h3 {
+    color: azure;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+}
+
+ul.ss {
+    background-color: azure;
+    font-size: 25px;
+    text-align: center;
+    text-decoration: none;
+}
+
+ul.ee {
+    background-color: azure;
+    font-size: 25px;
+    text-align: center;
+    text-decoration: none;
+}
+
+a {
+    text-decoration: none;
+}
